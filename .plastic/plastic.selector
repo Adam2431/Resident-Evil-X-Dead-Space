@@ -1,0 +1,4 @@
+repository "Resident Evil X Dead Space@AlienEdam@cloud"
+  path "/"
+    br "/main"
+    co "/main"
