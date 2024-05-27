@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 870806eda355b5144879155e2ba37eb6
+timeCreated: 1468325681
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105297
+  packageName: Dream Forest Tree
+  packageVersion: 1.3
+  assetPath: Assets/DreamForestTree/PostProcessing/Editor/Models/MotionBlurModelEditor.cs
+  uploadId: 468028

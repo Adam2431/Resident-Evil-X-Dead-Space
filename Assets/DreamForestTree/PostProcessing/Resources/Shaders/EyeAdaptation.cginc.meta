@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d2f406cad28afda489b94594fb3ce0af
+timeCreated: 1465898178
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105297
+  packageName: Dream Forest Tree
+  packageVersion: 1.3
+  assetPath: Assets/DreamForestTree/PostProcessing/Resources/Shaders/EyeAdaptation.cginc
+  uploadId: 468028

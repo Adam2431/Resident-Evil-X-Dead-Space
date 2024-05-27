@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: eb88496804341c648b32a75843d92ccb
+timeCreated: 1465205118
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105297
+  packageName: Dream Forest Tree
+  packageVersion: 1.3
+  assetPath: Assets/DreamForestTree/PostProcessing/Resources/Shaders/Common.cginc
+  uploadId: 468028

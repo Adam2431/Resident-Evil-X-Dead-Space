@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0a999e641c982a14d9c68dfd53a98afc
+timeCreated: 1469104178
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105297
+  packageName: Dream Forest Tree
+  packageVersion: 1.3
+  assetPath: Assets/DreamForestTree/PostProcessing/Resources/Shaders/Tonemapping.cginc
+  uploadId: 468028

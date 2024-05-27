@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5e990a13fe1bf22488921a73c2814e7d
+timeCreated: 1510940156
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105297
+  packageName: Dream Forest Tree
+  packageVersion: 1.3
+  assetPath: Assets/DreamForestTree/Materials/water.mat
+  uploadId: 468028

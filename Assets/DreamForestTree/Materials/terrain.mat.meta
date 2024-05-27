@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3694e4eb82c06d4b8309907deac269a
+timeCreated: 1510940618
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105297
+  packageName: Dream Forest Tree
+  packageVersion: 1.3
+  assetPath: Assets/DreamForestTree/Materials/terrain.mat
+  uploadId: 468028

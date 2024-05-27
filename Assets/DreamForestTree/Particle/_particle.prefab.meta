@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2003259857fd3f940bcd53bbb9131ca9
+timeCreated: 1510954577
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105297
+  packageName: Dream Forest Tree
+  packageVersion: 1.3
+  assetPath: Assets/DreamForestTree/Particle/_particle.prefab
+  uploadId: 468028

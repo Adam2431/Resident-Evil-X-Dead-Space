@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 72127ba7dd8c6b04bb3f29c7ee669813
+timeCreated: 1468224802
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105297
+  packageName: Dream Forest Tree
+  packageVersion: 1.3
+  assetPath: Assets/DreamForestTree/PostProcessing/Resources/Shaders/BuiltinDebugViews.shader
+  uploadId: 468028

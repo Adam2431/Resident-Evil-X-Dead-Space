@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 520fb051ec1c2c84d9ded86a4b5b9981
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239742
+  packageName: Free Fire VFX - HDRP
+  packageVersion: 1.0.1
+  assetPath: Assets/Vefects/Free Fire HDRP/Shaders/SH_Vefects_VFX_Fire_Flames.shader
+  uploadId: 627294

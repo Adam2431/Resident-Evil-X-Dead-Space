@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 26a62c2e30be83547bdfa9fe837165e3
+timeCreated: 1460363486
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105297
+  packageName: Dream Forest Tree
+  packageVersion: 1.3
+  assetPath: Assets/DreamForestTree/PostProcessing/Resources/Shaders/ColorGrading.cginc
+  uploadId: 468028

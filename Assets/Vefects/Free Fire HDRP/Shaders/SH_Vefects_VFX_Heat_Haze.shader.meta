@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a7390992a77452f49978f6c6af759f49
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 239742
+  packageName: Free Fire VFX - HDRP
+  packageVersion: 1.0.1
+  assetPath: Assets/Vefects/Free Fire HDRP/Shaders/SH_Vefects_VFX_Heat_Haze.shader
+  uploadId: 627294

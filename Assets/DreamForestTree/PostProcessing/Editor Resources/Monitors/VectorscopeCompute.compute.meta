@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 45de9ff58691e934c9810dc23de2ba50
+timeCreated: 1459956391
+licenseType: Store
+ComputeShaderImporter:
+  currentAPIMask: 4
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105297
+  packageName: Dream Forest Tree
+  packageVersion: 1.3
+  assetPath: Assets/DreamForestTree/PostProcessing/Editor Resources/Monitors/VectorscopeCompute.compute
+  uploadId: 468028

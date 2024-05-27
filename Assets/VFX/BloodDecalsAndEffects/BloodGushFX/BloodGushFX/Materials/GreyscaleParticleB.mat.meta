@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 690c48dc9c0f6924aab75be8de531f32
+timeCreated: 1476029978
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 73426
+  packageName: Blood Gush
+  packageVersion: 1.01
+  assetPath: Assets/BloodDecalsAndEffects/BloodGushFX/BloodGushFX/Materials/GreyscaleParticleB.mat
+  uploadId: 292723

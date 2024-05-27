@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 291f0d5b6045f4646847c59b4ce13ac5
+timeCreated: 1462350540
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105297
+  packageName: Dream Forest Tree
+  packageVersion: 1.3
+  assetPath: Assets/DreamForestTree/PostProcessing/Resources/Shaders/FXAA.shader
+  uploadId: 468028

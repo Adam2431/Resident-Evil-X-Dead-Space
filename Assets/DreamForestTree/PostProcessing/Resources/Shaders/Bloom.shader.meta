@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4ceb73bc148699b469361531d6062548
+timeCreated: 1462953634
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105297
+  packageName: Dream Forest Tree
+  packageVersion: 1.3
+  assetPath: Assets/DreamForestTree/PostProcessing/Resources/Shaders/Bloom.shader
+  uploadId: 468028
