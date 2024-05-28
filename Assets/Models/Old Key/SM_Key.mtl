@@ -1,0 +1,14 @@
+# Blender MTL File: 'Key.blend'
+# Material Count: 1
+
+newmtl Key
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd I:\\00_Projects\\Key\\3_Textures\\2_Exported_Files\\T_Key_BC.png
+map_d I:\\00_Projects\\Key\\3_Textures\\2_Exported_Files\\T_Key_BC.png
