@@ -418,18 +418,6 @@ public class Inventory : MonoBehaviour
         storageInventorySlots[i].gameObject.SetActive(true);
 
         UpdateSellSlots();
-
-        //if (!(item.itemName == "Diamond Key" || item.itemName == "Spade Key" || item.itemName == "Club Key" ||
-        //    item.itemName == "Heart Key"))
-        //{
-        //    sellSlots[j].gameObject.SetActive(true);
-        //    Image img = sellSlots[j].transform.Find("png").GetComponent<Image>();
-        //    img.sprite = items[i].sprite;
-        //    Text text = sellSlots[j].transform.Find("text").GetComponentInChildren<Text>();
-        //    text.text = item.itemName;
-        //    Text price = sellSlots[j].transform.Find("price").GetComponentInChildren<Text>();
-        //    price.text = GetSellPrice(item).ToString();
-        //}
     }
 
     public void RemoveFromInventory(InventoryItem item)

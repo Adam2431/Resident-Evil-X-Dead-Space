@@ -58,7 +58,7 @@ public class ThrowingTutorial : MonoBehaviour
             GameLogic.instance.Inventory.GetComponent<Inventory>().RemoveFromInventory(GameLogic.instance.Inventory.GetComponent<Inventory>().scriptableObjects[4]);
         else if (GameLogic.instance.currentWeapons[ThirdPersonController.instance._input.weaponIndex].Equals("Flash Grenade"))
             GameLogic.instance.Inventory.GetComponent<Inventory>().RemoveFromInventory(GameLogic.instance.Inventory.GetComponent<Inventory>().scriptableObjects[5]);
-
+        GameLogic.instance.UpdateAmmo();
         GameLogic.instance.currentWeapons.RemoveAt(ThirdPersonController.instance._input.weaponIndex);
         ThirdPersonController.instance._input.weaponIndex--;
         ThirdPersonController.instance.SwitchWeapon();

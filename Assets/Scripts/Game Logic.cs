@@ -324,10 +324,6 @@ public class GameLogic : MonoBehaviour
             {
                 RotatingDoor.localRotation = Quaternion.Slerp(RotatingDoor.localRotation, Quaternion.Euler(RotatingDoor.localRotation.x, -28f, RotatingDoor.localRotation.z), 5 * Time.deltaTime);
             }
-            //if (304f - RotatingDoor.localEulerAngles.y > -28)
-            //{
-            //    isRotatingDoor = false;
-            //}
         }
 
         if (EventSystemSelectedObject && EventSystem.current.currentSelectedGameObject && EventSystemSelectedObject.name != EventSystem.current.currentSelectedGameObject.name && EventSystem.current.currentSelectedGameObject.name == "Master Slider")
@@ -1344,7 +1340,6 @@ public class GameLogic : MonoBehaviour
         StoreCamera.Priority = 3;
         AudioScript.OpenStore();
         Store.SetActive(true);
-        //MerchantImage.SetActive(true);
         Cursor.lockState = CursorLockMode.None;
         Cursor.visible = true;
         Time.timeScale = 1;
@@ -1567,18 +1562,6 @@ public class GameLogic : MonoBehaviour
     public void AlertOneZeroTwoEnemies()
     {
 
-        //foreach (GameObject Mirror in Mirrors)
-        //{
-        //    if (Mirror.name == "102 Mirror")
-        //    {
-        //        Mirror.SetActive(true);
-        //    }
-        //    else
-        //    {
-        //        Mirror.SetActive(false);
-        //    }
-        //}
-
         foreach (GameObject enemy in OneZeroTwoEnemies)
         {
             if (!enemy.GetComponent<Enemy>().isDead)
@@ -1620,18 +1603,6 @@ public class GameLogic : MonoBehaviour
 
     public void AlertSpadeEnemies()
     {
-        //foreach (GameObject Mirror in Mirrors)
-        //{
-        //    if (Mirror.name == "Spade Mirror")
-        //    {
-        //        Mirror.SetActive(true);
-        //    }
-        //    else
-        //    {
-        //        Mirror.SetActive(false);
-        //    }
-        //}
-
         foreach (GameObject enemy in SpadeEnemies)
         {
             if (!enemy.GetComponent<Enemy>().isDead)
@@ -1673,18 +1644,6 @@ public class GameLogic : MonoBehaviour
 
     public void AlertHeartEnemies()
     {
-        //foreach (GameObject Mirror in Mirrors)
-        //{
-        //    if (Mirror.name == "Heart Mirror")
-        //    {
-        //        Mirror.SetActive(true);
-        //    }
-        //    else
-        //    {
-        //        Mirror.SetActive(false);
-        //    }
-        //}
-
         foreach (GameObject enemy in HeartEnemies)
         {
             if (!enemy.GetComponent<Enemy>().isDead)
@@ -1726,19 +1685,6 @@ public class GameLogic : MonoBehaviour
 
     public void AlertZeroZeroThreeEnimes()
     {
-
-        //foreach (GameObject Mirror in Mirrors)
-        //{
-        //    if (Mirror.name == "003 Mirror")
-        //    {
-        //        Mirror.SetActive(true);
-        //    }
-        //    else
-        //    {
-        //        Mirror.SetActive(false);
-        //    }
-        //}
-
         foreach (GameObject enemy in ZeroZeroThreeEnemies)
         {
             if (!enemy.GetComponent<Enemy>().isDead)
