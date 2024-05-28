@@ -70,3 +70,7 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/Models/Emblem/Crys_normal.png.meta
+Assets/Models/Emblem/Crys_normal.png
+Assets/DreamForestTree/Materials/ClearSky.psd.meta
+Assets/DreamForestTree/Materials/ClearSky.psd
